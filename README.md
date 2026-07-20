@@ -1,144 +1,207 @@
+<!-- HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=VISION%20ENGINE%20ONLINE&fontSize=42&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=Booting%20Neural%20Systems%20for%20Ujala%20Basit&descAlignY=58&descSize=18" width="100%"/>
-</p>
-
-<!-- TYPING TERMINAL EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=%3E+Initializing+Computer+Vision+Pipeline...;%3E+Loading+YOLO+%2B+PyTorch+weights...;%3E+PERSON+DETECTED+%E2%80%94+CONFIDENCE%3A+99.8%25;%3E+STATUS%3A+READY+FOR+DEPLOYMENT" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08141f,50:0f506b,100:00c9ff&height=220&section=header&text=VISION%20SYSTEM%20ONLINE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Computer%20Vision%20%7C%20Creative%20Engineering&descAlignY=60&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ujalabasit&label=SCANS%20LOGGED&color=0f0c29&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ffcc?style=for-the-badge&logo=statuspage&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MODE-AI%20ENGINEER-ff00ff?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=700&lines=%3E+Booting+Ujala's+AI+Core...;%3E+Loading+Computer+Vision+Models...;%3E+YOLO+%7C+OpenCV+%7C+PyTorch+Online;%3E+System+Ready+%E2%9C%93" />
 </p>
 
 ---
 
-## `> IDENTITY.SCAN()`
+# `> PROFILE_SCAN()`
 
 <table>
 <tr>
-<td width="38%" valign="top">
 
+<td width="40%" align="center">
+
+<img src="./assets/ujala.png" width="280"/>
+
+<br>
+
+```text
++----------------------+
+|   VISION ANALYSIS    |
++----------------------+
+
+IMAGE ........ FOUND
+IDENTITY .... VERIFIED
+
+NAME:
+UJALA BASIT
+
+ROLE:
+AI ENGINEER
+
+SPECIALITY:
+TEACHING MACHINES
+TO UNDERSTAND
+THE WORLD
+
+STATUS:
+● ONLINE
 ```
-
-╔══════════════════════╗
-║   FACIAL RECOGNITION  ║
-╚══════════════════════╝
-[■■■■■■■■■■] 100%
-
-TARGET LOCKED
-NAME........: UJALA BASIT
-ROLE........: AI / CV ENGINEER
-CLEARANCE...: LEVEL 5
-STATUS......: 🟢 ONLINE
-
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FF00FF&center=true&width=400&height=40&lines=%22Teaching+machines+to+see.%22" />
 
 </td>
-<td width="62%" valign="top">
 
-### `> SPECIALIZATION.LOAD()`
+<td width="60%">
 
-| Domain | Focus |
-|---|---|
-| 🧠 Computer Vision | Real-time detection & tracking |
-| 🔥 Deep Learning | Model design & training |
-| 🤖 Machine Learning | Applied AI systems |
-| 🚘 ADAS Systems | Lane + object detection |
+## `> ABOUT_ME`
 
-### `> ACTIVE MODULES`
+```python
+class AIEngineer:
 
-- ✅ `UFLD-YOLO-ADAS` — Lane & vehicle detection
-- ✅ `3D Portfolio Engine` — Three.js powered
-- ✅ `Real-time Object Tracking`
-- 🔄 `Next-gen Vision Pipeline` — in progress
+    name = "Ujala Basit"
 
-### `> TECH STACK`
+    fields = [
+        "Computer Vision",
+        "Machine Learning",
+        "Deep Learning",
+        "Frontend Engineering",
+        "UI/UX Design"
+    ]
+
+    mission = "Building intelligent systems that see, learn and interact"
+```
+
+I build AI-powered systems combining **computer vision, deep learning and creative engineering**.
+
+My work focuses on creating machines that can:
+
+* 👁️ Understand visual environments
+* 🚗 Analyze real-world driving scenarios
+* 🤖 Detect and track objects
+* 🧠 Build intelligent ML systems
+* 🎨 Create interactive digital experiences
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `> AI_MODULES_LOADED`
+
+| System                    | Description                                                                |
+| ------------------------- | -------------------------------------------------------------------------- |
+| 🚘 ADAS Vision Pipeline   | Vehicle detection, tracking, lane detection and perspective transformation |
+| 👁️ Computer Vision Apps  | Real-time interaction using OpenCV and MediaPipe                           |
+| 🧠 RAG Systems            | Retrieval augmented generation based ML applications                       |
+| 🌐 Creative AI Interfaces | Interactive websites and 3D experiences                                    |
+
+---
+
+# `> DEPLOYED_PROJECTS[]`
+
+### 🚗 Vehicle Speed & Distance Estimation
+
+`YOLOv8 + ByteTrack + Perspective Transformation + OpenCV`
+
+Real-time vehicle analysis pipeline estimating:
+
+* Object detection
+* Vehicle tracking
+* Distance estimation
+* Speed calculation
+
+### 🛣️ Dashcam Lane Detection
+
+`Computer Vision + Deep Learning`
+
+Exploring:
+
+* UFLD
+* CLRNet
+* Lane segmentation
+* Road understanding systems
+
+### 🪞 MirrorWrite
+
+`Python + OpenCV + MediaPipe`
+
+Interactive computer vision application:
+
+* Hand gesture detection
+* Virtual fog removal
+* Real-time image interaction
+
+### 🧠 ChronoSeek RAG System
+
+Retrieval-Augmented Generation system exploring:
+
+* Document intelligence
+* Semantic search
+* AI-powered retrieval
+
+### 🎵 Aurora — Mood Based Music Experience
+
+Frontend + AI inspired application combining:
+
+* User experience design
+* Interactive interfaces
+* Creative technology
+
+---
+
+# `> TECH_STACK`
 
 <p>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=00FFFF"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
-</p>
 
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/YOLO-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js"/>
+<img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma"/>
+
+</p>
 
 ---
 
-## `> SYSTEM DIAGNOSTICS`
+# `> SYSTEM_STATUS`
 
+```text
+COMPUTER VISION      ██████████  ACTIVE
+DEEP LEARNING        █████████░  ACTIVE
+MACHINE LEARNING     █████████░  ACTIVE
+FRONTEND SYSTEMS     ████████░░  ACTIVE
+UI / UX DESIGN       ████████░░  ACTIVE
 ```
 
-COMPUTER VISION   [██████████] ACTIVE   99.8%
-DEEP LEARNING     [██████████] ACTIVE   98.4%
-YOLO DETECTION    [██████████] ACTIVE   99.1%
-LANE DETECTION    [██████████] ACTIVE   97.6%
-UI / UX SYSTEMS   [███████░░░] TUNING   74.0%
+---
+
+# `> GITHUB_TELEMETRY`
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ujalabasit7175&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# `> CONTRIBUTION_ACTIVITY`
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ujalabasit7175/ujalabasit7175/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+<p align="center">
 
 ```
+BUILDING SYSTEMS THAT SEE.
+CREATING TECHNOLOGY THAT THINKS.
+```
 
----
-
-## `> DEPLOYED_SYSTEMS[]`
-
-<table>
-<tr>
-<th>ID</th><th>PROJECT</th><th>STATUS</th>
-</tr>
-<tr>
-<td><code>01</code></td>
-<td><b>UFLD-YOLO-ADAS</b><br><sub>Lane detection + object tracking pipeline</sub></td>
-<td>🟢 <code>COMPLETED</code></td>
-</tr>
-<tr>
-<td><code>02</code></td>
-<td><b>Vision Portfolio (3D)</b><br><sub>Three.js interactive experience</sub></td>
-<td>🟡 <code>IN DEVELOPMENT</code></td>
-</tr>
-<tr>
-<td><code>03</code></td>
-<td><b>AI Applications Lab</b><br><sub>Experimental AI-driven tools</sub></td>
-<td>🔵 <code>RESEARCHING</code></td>
-</tr>
-</table>
-
----
-
-## `> LIVE TELEMETRY`
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ujalabasit&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ujalabasit&theme=synthwave&hide_border=true" width="49%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujalabasit&layout=compact&theme=synthwave&hide_border=true" width="60%"/>
-</p>
-
-<!-- CONTRIBUTION SNAKE -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</p>
-
-> ⚙️ **Snake animation setup:** this needs a small GitHub Action in your repo to auto-generate the SVG. Ask me and I'll write the workflow file for you.
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <code>BUILDING INTELLIGENT SYSTEMS //</code><br>
-  <sub>connection stable — awaiting next command_</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:08141f&height=120&section=footer"/>
 </p>
